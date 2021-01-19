@@ -1,10 +1,10 @@
-# timestamp-microservice
+# Freecodecamp api challenge
 
 > Micro API for freecodecamp challenge
 
 ## Demo
 
-The API is live at [https://timemicroapi-estebanpablo89.herokuapp.com/](https://timemicroapi-estebanpablo89.herokuapp.com/)
+The API is live at [https://freecodeapi-estebanpablo89.herokuapp.com/](https://freecodeapi-estebanpablo89.herokuapp.com/)
 
 ## Install Dependencies
 
